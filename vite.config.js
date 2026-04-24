@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'http://localhost:5000',
+        target: 'urika-chatbot.railway.internal',
         changeOrigin: true,
         // On refresh the browser sends the full URL — proxy handles it cleanly
       },
