@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "start": "node server.js",
+    "start": "node Server.js",
     "dev": "node --watch server.js",
     "scrape": "node src/scraper/scrape.js",
     "index": "node src/rag/buildIndex.js"
