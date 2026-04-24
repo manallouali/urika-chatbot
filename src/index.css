@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background: #f8f8f7;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #fdba74; border-radius: 99px; }
+::-webkit-scrollbar-thumb:hover { background: #f97316; }
+
+/* ── Message entrance ── */
+.msg-enter { animation: fade-up 0.32s cubic-bezier(0.16,1,0.3,1) forwards; }
+
+/* ── Textarea ── */
+textarea {
+  field-sizing: content;
+  min-height: 24px;
+  max-height: 140px;
+  resize: none;
+  overflow-y: auto;
+}
+
+/* ── Suggestion chip hover ── */
+.chip {
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+.chip:hover {
+  transform: translateY(-1px);
+}
+
+/* ── Glass surface ── */
+.glass {
+  background: rgba(255,255,255,0.85);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+/* ── Dot bounce delays ── */
+.dot-1 { animation-delay: 0s;    }
+.dot-2 { animation-delay: 0.18s; }
+.dot-3 { animation-delay: 0.36s; }

@@ -1,0 +1,172 @@
+{
+  "company": {
+    "name": "Urika Cloud",
+    "tagline": "METS TON BUSINESS EN ORBITE",
+    "website": "https://urikacloud.com",
+    "email": "contact@urikacloud.com",
+    "phone": "+212 7 77 77 76 76",
+    "address": {
+      "city": "Meknès",
+      "street": "Adresse complète ici",
+      "region": "Fès-Meknès, Maroc"
+    },
+    "social": {
+      "linkedin": "https://linkedin.com/company/urikacloud",
+      "instagram": "https://instagram.com/urikacloud",
+      "facebook": "https://facebook.com/urikacloud"
+    }
+  },
+
+  "hours": {
+    "monday_friday": "09:00 - 18:00",
+    "saturday": "09:00 - 13:00",
+    "sunday": "Fermé",
+    "note": "Disponible 24/7 pour les urgences clients via email"
+  },
+
+  "services": [
+    {
+      "name": "Création de sites web et applications mobiles",
+      "description": "Conception et développement de sites web sur mesure et d'applications mobiles pour tous types d'entreprises.",
+      "price": "Sur devis",
+      "includes": ["Site vitrine", "Application mobile iOS/Android", "Développement sur mesure", "Maintenance"]
+    },
+    {
+      "name": "Plateformes e-commerce, marketplace et e-learning",
+      "description": "Création de boutiques en ligne, marketplaces multi-vendeurs et plateformes de formation en ligne.",
+      "price": "Sur devis",
+      "includes": ["Boutique e-commerce", "Marketplace multi-vendeurs", "Plateforme e-learning", "Gestion des paiements"]
+    },
+    {
+      "name": "Marketing digital, community management et SEO",
+      "description": "Stratégie digitale complète pour booster votre visibilité en ligne et engager votre audience.",
+      "price": "Sur devis",
+      "includes": ["SEO / Référencement naturel", "Community management", "Publicité en ligne", "Création de contenu"]
+    },
+    {
+      "name": "ERP / CRM, codes-barres et QR",
+      "description": "Déploiement de logiciels de gestion d'entreprise (ERP/CRM) et intégration de systèmes de codes-barres et QR codes.",
+      "price": "Sur devis",
+      "includes": ["ERP sur mesure ou standard", "CRM", "Codes-barres", "QR codes"]
+    },
+    {
+      "name": "Maintenance informatique (matériel et logiciel)",
+      "description": "Entretien préventif et correctif de votre parc informatique, matériel et logiciel.",
+      "price": "Sur devis",
+      "includes": ["Diagnostic matériel", "Mise à jour logiciels", "Réparation", "Contrats de maintenance"]
+    },
+    {
+      "name": "Infogérance",
+      "description": "Externalisation complète ou partielle de la gestion de votre infrastructure informatique.",
+      "price": "Sur devis",
+      "includes": ["Supervision 24/7", "Helpdesk", "Gestion des serveurs", "Sauvegardes"]
+    },
+    {
+      "name": "Installation et maintenance des réseaux informatiques",
+      "description": "Conception, installation et maintenance de réseaux locaux (LAN/Wi-Fi) pour entreprises.",
+      "price": "Sur devis",
+      "includes": ["Câblage réseau", "Configuration Wi-Fi", "VPN", "Sécurité réseau"]
+    },
+    {
+      "name": "Installation et maintenance des caméras de vidéosurveillance",
+      "description": "Installation de systèmes de vidéosurveillance (CCTV / IP) pour la sécurité de vos locaux.",
+      "price": "Sur devis",
+      "includes": ["Caméras IP / CCTV", "Enregistrement cloud ou local", "Accès à distance", "Maintenance"]
+    },
+    {
+      "name": "Formations",
+      "description": "Formations informatiques et digitales pour les équipes et les particuliers.",
+      "price": "Sur devis",
+      "includes": ["Bureautique", "Cybersécurité", "Outils digitaux", "Intelligence artificielle"]
+    },
+    {
+      "name": "Développement de solutions IA",
+      "description": "Conception et développement de solutions personnalisées basées sur l'intelligence artificielle.",
+      "price": "Sur devis",
+      "includes": ["Machine Learning", "NLP", "Vision par ordinateur", "Intégration API IA"]
+    },
+    {
+      "name": "Création de chatbots",
+      "description": "Développement de chatbots intelligents pour automatiser le service client et améliorer l'expérience utilisateur.",
+      "price": "Sur devis",
+      "includes": ["Chatbot service client", "Intégration site web / WhatsApp", "Entraînement sur vos données", "Suivi et amélioration"]
+    },
+    {
+      "name": "Automatisation des processus métiers (RPA + IA)",
+      "description": "Automatisation des tâches répétitives et des workflows grâce à la RPA et l'IA.",
+      "price": "Sur devis",
+      "includes": ["Audit des processus", "Mise en place RPA", "Intégration IA", "Suivi des performances"]
+    },
+    {
+      "name": "Analyse de données et prédictions (Data Analytics & ML)",
+      "description": "Exploitation de vos données pour en extraire des insights et des prédictions utiles à votre activité.",
+      "price": "Sur devis",
+      "includes": ["Tableaux de bord", "Modèles prédictifs", "Data visualisation", "Rapports automatisés"]
+    },
+    {
+      "name": "Génération de contenu IA",
+      "description": "Production automatisée de contenu (texte, images, marketing) grâce à l'intelligence artificielle.",
+      "price": "Sur devis",
+      "includes": ["Rédaction automatique", "Création d'images IA", "Contenu marketing", "Personnalisation"]
+    },
+    {
+      "name": "Intégration d'IA dans sites web et applications",
+      "description": "Ajout de fonctionnalités intelligentes dans vos applications et sites web existants.",
+      "price": "Sur devis",
+      "includes": ["Recommandations personnalisées", "Recherche intelligente", "Analyse de sentiment", "API IA"]
+    },
+    {
+      "name": "Audit et conseil en transformation digitale & IA",
+      "description": "Accompagnement stratégique pour réussir votre transformation digitale et adopter l'IA efficacement.",
+      "price": "Sur devis",
+      "includes": ["Audit digital", "Feuille de route IA", "Conseil stratégique", "Accompagnement au changement"]
+    }
+  ],
+
+  "faq": [
+    {
+      "question": "Où se trouve Urika Cloud ?",
+      "answer": "Urika Cloud est basée à Meknès, Maroc. Nous intervenons également à distance pour toute la région."
+    },
+    {
+      "question": "Quels sont vos horaires d'ouverture ?",
+      "answer": "Nous sommes disponibles du lundi au vendredi de 9h à 18h, et le samedi de 9h à 13h."
+    },
+    {
+      "question": "Comment obtenir un devis ?",
+      "answer": "Contactez-nous par email à contact@urikacloud.com ou appelez le +212 7 77 77 76 76. Nous répondons sous 24h."
+    },
+    {
+      "question": "Travaillez-vous avec les PME ?",
+      "answer": "Oui, nous accompagnons principalement les PME et startups marocaines dans leur transformation digitale."
+    },
+    {
+      "question": "Proposez-vous un support après livraison ?",
+      "answer": "Oui, tous nos services incluent une période de support et de maintenance après livraison."
+    },
+    {
+      "question": "Puis-je avoir une démo ou consultation gratuite ?",
+      "answer": "Oui, nous proposons une consultation initiale gratuite pour évaluer vos besoins."
+    },
+    {
+      "question": "Proposez-vous des services d'intelligence artificielle ?",
+      "answer": "Oui, Urika Cloud propose une gamme complète de services IA : chatbots, automatisation RPA, analyse de données, génération de contenu, intégration IA dans vos applications, et conseil en transformation digitale."
+    },
+    {
+      "question": "Faites-vous de la vidéosurveillance ?",
+      "answer": "Oui, nous installons et maintenons des systèmes de vidéosurveillance (caméras IP et CCTV) pour les entreprises."
+    },
+    {
+      "question": "Proposez-vous des formations informatiques ?",
+      "answer": "Oui, nous proposons des formations en bureautique, cybersécurité, outils digitaux et intelligence artificielle pour les équipes et particuliers."
+    }
+  ],
+
+  "extra_info": [
+    "Urika Cloud est certifiée et partenaire de plusieurs éditeurs technologiques internationaux.",
+    "Nous parlons français, arabe et anglais.",
+    "Tous nos projets sont réalisés en interne, sans sous-traitance.",
+    "Urika Cloud propose à la fois des services IT classiques (réseaux, maintenance, infogérance) et des services IA avancés (chatbots, RPA, Data Analytics, Machine Learning).",
+    "Nous accompagnons les entreprises de toutes tailles dans leur transformation digitale et l'adoption de l'intelligence artificielle."
+  ]
+}
